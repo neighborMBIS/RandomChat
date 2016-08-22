@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+C:\Users\user\Desktop\test\SocketChat-GPS\Chat_Server\.metadata\.plugins\org.eclipse.jdt.core
+2501520862.index
